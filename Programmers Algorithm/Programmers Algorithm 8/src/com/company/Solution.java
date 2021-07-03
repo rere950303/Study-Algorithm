@@ -1,3 +1,8 @@
+//
+//  Programmers Algorithm 8(다리를 지나는 트럭)
+//  https://programmers.co.kr/learn/courses/30/lessons/42583
+//  Created by hyungwook on 2021/07/03.
+//
 package com.company;
 
 import java.util.*;

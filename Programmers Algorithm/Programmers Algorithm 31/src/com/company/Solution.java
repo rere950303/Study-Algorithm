@@ -1,6 +1,6 @@
 //
 //  Programmers Algorithm 31(단어 변환)
-//  https://github.com/rere950303/Algorithm/pull/62/files
+//  https://programmers.co.kr/learn/courses/30/lessons/43163
 //  Created by hyungwook on 2021/07/31.
 //
 package com.company;

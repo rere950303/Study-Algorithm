@@ -43,8 +43,9 @@
 [이항 계수 2][75], [조합 0의 개수][76], [다리 놓기][77]. [이항 계수 1][78]
 ### 유클리드 호제법
 [최대공약수와 최소공배수][79], [검문][80]
-## JAVA
-- 1번 문제: [가위 바위 보][81](배열)
+## Codility Algorithm
+### Counting Elements
+[MaxCounters][81]
 
 [1]:	https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%202/src/com/company/Main.java
 [2]:	https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%203/src/com/company/Main.java
@@ -126,4 +127,4 @@
 [78]:	https://github.com/rere950303/Study-Algorithm/blob/main/BaekJun%20Algorithm/BaekJun%20Algorithm%2043/main.c
 [79]:	https://github.com/rere950303/Study-Algorithm/blob/main/BaekJun%20Algorithm/BaekJun%20Algorithm%2037/main.c
 [80]:	https://github.com/rere950303/Study-Algorithm/blob/main/BaekJun%20Algorithm/BaekJun%20Algorithm%2039/main.c
-[81]:	https://github.com/rere950303/Study-Algorithm/blob/main/JAVA/%EA%B0%80%EC%9C%84%20%EB%B0%94%EC%9C%84%20%EB%B3%B4/src/Solution.java
+[81]:	https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/MaxCounters/src/Solution.java

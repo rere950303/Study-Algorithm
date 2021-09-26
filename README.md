@@ -63,4 +63,6 @@
 ### Iterations
 [BinaryGap](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/BinaryGap/src/Solution.java)
 ### Arrays
-[CyclicRotation](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/CyclicRotation/src/Solution.java)
+[CyclicRotation](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/CyclicRotation/src/Solution.java), [OddOccurrencesInArray](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/OddOccurrencesInArray/src/Solution.java)
+### Time Complexity
+[FrogJmp](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/FrogJmp/src/Solution.java), [PermMissingElem](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/PermMissingElem/src/Solution.java), [TapeEquilibrium](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/TapeEquilibrium/src/Solution.java)

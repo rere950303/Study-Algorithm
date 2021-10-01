@@ -4,6 +4,8 @@
 // Created by hyungwook on 2021/09/27.
 //
 
+import java.util.Optional;
+
 public class Solution {
 
     public int solution(int[] A) {
@@ -21,6 +23,7 @@ public class Solution {
             min = Math.min(min, Math.abs(ltSum - rtSum));
         }
 
+        Optional.of("123").filter()
         return min;
     }
 }

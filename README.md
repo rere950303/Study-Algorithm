@@ -15,7 +15,7 @@
 ### 동적계획법
 [N으로 표현](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2025/src/com/company/Solution.java), [정수 삼각형](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2026/src/com/company/Solution.java), [등굣길](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2027/src/com/company/Solution.java), [도둑질](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2028/src/com/company/Solution.java) 
 ### 깊이/너비 우선 탐색
-[타겟 넘버](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2029/src/com/company/Solution.java), [네트워크](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2030/src/com/company/Solution.java), [단어 변환](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2031/src/com/company/Solution.java), [여행경로](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2032/src/com/company/Solution.java)
+[타겟 넘버](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2029/src/com/company/Solution.java), [네트워크](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2030/src/com/company/Solution.java), [단어 변환](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2031/src/com/company/Solution.java), [여행경로](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2032/src/com/company/Solution.java), [전력망을 둘로 나누기]()
 ### 이분탐색
 [입국심사](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2033/src/com/company/Solution.java), [징검다리](https://github.com/rere950303/Study-Algorithm/blob/main/Programmers%20Algorithm/Programmers%20Algorithm%2034/src/com/company/Solution.java)
 ### 그래프
@@ -66,3 +66,5 @@
 [CyclicRotation](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/CyclicRotation/src/Solution.java), [OddOccurrencesInArray](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/OddOccurrencesInArray/src/Solution.java)
 ### Time Complexity
 [FrogJmp](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/FrogJmp/src/Solution.java), [PermMissingElem](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/PermMissingElem/src/Solution.java), [TapeEquilibrium](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/TapeEquilibrium/src/Solution.java)
+### Prefix Sums
+[PassingCasrs](), [CountDiv]()

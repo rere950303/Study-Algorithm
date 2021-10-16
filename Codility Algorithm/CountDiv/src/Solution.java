@@ -1,6 +1,6 @@
 //
 // Prefix Sums(CountDiv)
-//
+// https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/
 // Created by hyungwook on 2021/10/02.
 //
 

@@ -1,6 +1,6 @@
 //
 // Time Complexity(TapeEquilibrium)
-//
+// https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
 // Created by hyungwook on 2021/09/27.
 //
 

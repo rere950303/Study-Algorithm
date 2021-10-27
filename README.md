@@ -69,4 +69,4 @@
 ### Prefix Sums
 [PassingCasrs](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/PassingCars/src/Solution.java), [CountDiv](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/CountDiv/src/Solution.java), [GenomicRangeQuery](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/GenomicRangeQuery/src/Solution.java), [MinAvgTwoSlice](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/MinAvgTwoSlice/src/Solution.java)
 ### Sorting
-[Distinct](), [MaxProductOfThree](), [Triangle]()
+[Distinct](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/Distinct/src/Solution.java), [MaxProductOfThree](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/MaxProductOfThree/src/Solution.java), [Triangle](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/Triangle/src/Solution.java)

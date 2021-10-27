@@ -68,3 +68,5 @@
 [FrogJmp](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/FrogJmp/src/Solution.java), [PermMissingElem](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/PermMissingElem/src/Solution.java), [TapeEquilibrium](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/TapeEquilibrium/src/Solution.java)
 ### Prefix Sums
 [PassingCasrs](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/PassingCars/src/Solution.java), [CountDiv](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/CountDiv/src/Solution.java), [GenomicRangeQuery](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/GenomicRangeQuery/src/Solution.java), [MinAvgTwoSlice](https://github.com/rere950303/Study-Algorithm/blob/main/Codility%20Algorithm/MinAvgTwoSlice/src/Solution.java)
+### Sorting
+[Distinct](), [MaxProductOfThree](), [Triangle]()

@@ -35,10 +35,10 @@ public class Solution {
             if (poll.c > answer[poll.node]) {
                 continue;
             }
-            for (Node nodes : list.get(poll.node)) {
-                if (nodes.c + poll.c < answer[nodes.node]) {
-                    answer[nodes.node] = nodes.c + poll.c;
-                    queue.add(new Node(nodes.node, nodes.c + poll.c));
+            for (Node node : list.get(poll.node)) {
+                if (node.c + poll.c < answer[node.node]) {
+                    answer[node.node] = node.c + poll.c;
+                    queue.add(new Node(node.node, node.c + poll.c));
                 }
             }
         }

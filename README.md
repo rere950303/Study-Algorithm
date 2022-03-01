@@ -3,7 +3,7 @@
 ### 해시
 완주하지 못한 선수, 전화번호 목록, 위장, 베스트앨범, 1차 뉴스 클러스터링, 오픈채팅방, 튜플, 보석 쇼핑, 주차 요금 계산, 스타 수열
 ### 스택/큐
-기능개발, 프린터, 다리를 지나는 트럭, 주식가격, 괄호 변환, 캐시, n진수 게임, 괄호 회전하기, 짝지어 제거하기, 110 옮기기
+기능개발, 프린터, 다리를 지나는 트럭, 주식가격, 괄호 변환, 캐시, n진수 게임, 괄호 회전하기, 짝지어 제거하기, 110 옮기기, 올바른 괄호
 ### 이진 트리
 길 찾기 게임, 다단계 칫솔 판매
 ### 힙
@@ -36,6 +36,8 @@ N개의 최소공배수
 광고 삽입, 풍선 터트리기
 ### 문자열
 JadenCase 문자열 만들기
+### Prefix Sum
+캠핑
 ### 기타(규칙 찾기)
 로또의 최고 순위와 최저 순위, 신규 아이디 추천, 문자열 압축, 셔틀버스, 자물쇠와 열쇠, 표 편집, 기둥과 보 설치, 매칭 점수, 프렌즈4블록, 방금그곡, 압축, 파괴되지 않은 건물, 124 나라의 숫자, 멀쩡한 사각형, 빛의 경로 사이클, 예상 대진표, 행렬 테두리 회전하기, 2개 이하로 다른 비트, n^2 배열 자르기, 공 이동 시뮬레이션, 교점에 별 만들기, 기지국 설치, 다음 큰 숫자, 방문 길이, 삼각 달팽이, 숫자의 표현, 스킬트리, 야근 지수, 영어 끝말잇기, 이진 변환 반복하기, 점프와 순간 이동, 최고의 집합, 최댓값과 최솟값
 
@@ -127,22 +129,28 @@ FloodDepth, LongestPassword, SlalomSkiing
 
 ## LeetCode Algorithm
 ### Two Pointers
-3Sum, 3Sum Closest, Container With Most Water
+3Sum, 3Sum Closest, Container With Most Water, Camelcase Matching
 ### Array
-Find the Winner of an Array Game
+Find the Winner of an Array Game, Hand of Straights
 ### Linked List
 Add Two Numbers, Remove Nth Node From End of List, Swap Nodes in Pairs
 ### Math
-Excel Sheet Column Number, Reverse Integer, Integer to Roman, Multiply Strings, Simplified Fractions
+Excel Sheet Column Number, Reverse Integer, Integer to Roman, Multiply Strings, Simplified Fractions, Number of Substrings With Only 1s
 ### String
-Longest Palindromic Substring, Zigzag Conversion
+Longest Palindromic Substring, Zigzag Conversion, Remove All Occurrences of a Substring
 ### Hash Table
 Longest Substring Without Repeating Characters, Group Anagrams, Valid Sudoku
 ### DFS
-4Sum, Combination Sum, Combination Sum II, Generate Parentheses, Letter Combinations of a Phone Number, Path Sum II, Permutations, Permutations II
+4Sum, Combination Sum, Combination Sum II, Generate Parentheses, Letter Combinations of a Phone Number, Path Sum II, Permutations, Permutations II, Jump Game III, Surrounded Regions
+### BFS
+Minimum Operations to Convert Number
+### Dijkstra
+Path With Minimum Effort
 ### Binary Search
 Find First and Last Position of Element in Sorted Array, Next Permutation, Search in Rotated Sorted Array
 ### Greedy
-Jump Game, Jump Game II, Merge Intervals
+Jump Game, Jump Game II, Merge Intervals, Smallest Range II
 ### Matrix
 Rotate Image, Spiral Matrix
+### Concurrency
+print FooBar Alternately

@@ -145,7 +145,7 @@
 ### BFS
 [Minimum Operations to Convert Number](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Minimum%20Operations%20to%20Convert%20Number/src/Solution.java)
 ### Dijkstra
-Path With Minimum Effort
+[Path With Minimum Effort](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Path%20With%20Minimum%20Effort/src/Solution.java)
 ### Binary Search
 [Find First and Last Position of Element in Sorted Array](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/src/Solution.java), [Next Permutation](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Next%20Permutation/src/Solution.java), [Search in Rotated Sorted Array](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Search%20in%20Rotated%20Sorted%20Array/src/Solution.java)
 ### Greedy

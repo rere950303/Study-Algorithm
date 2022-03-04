@@ -5,14 +5,12 @@
 //
 
 public class Solution {
-    int[] answer;
-    int length;
-    int max = 0;
-    int lastMax = 0;
 
     public int[] solution(int N, int[] A) {
-        answer = new int[N];
-        length = A.length;
+        int[] answer = new int[N];
+        int length = A.length;
+        int max = 0;
+        int lastMax = 0;
 
         for (int i = 0; i < length; i++) {
             if (A[i] == N + 1) {

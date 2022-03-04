@@ -9,27 +9,27 @@ import java.util.Stack;
 public class Solution {
 
     public int solution(int[] A, int[] B) {
-        Stack<Integer> stack = new Stack<>();
+        Stack<Integer> downStreamStack = new Stack<>();
         int length = A.length;
         int alive = 0;
 
         for (int i = 0; i < length; i++) {
             if (B[i] == 1) {
-                stack.add(A[i]);
+                downStreamStack.add(A[i]);
             } else {
-                while (!stack.isEmpty()) {
-                    if (stack.peek() > A[i]) {
+                while (!downStreamStack.isEmpty()) {
+                    if (downStreamStack.peek() > A[i]) {
                         break;
                     } else {
-                        stack.pop();
+                        downStreamStack.pop();
                     }
                 }
-                if (stack.isEmpty()) {
+                if (downStreamStack.isEmpty()) {
                     alive++;
                 }
             }
         }
 
-        return stack.size() + alive;
+        return downStreamStack.size() + alive;
     }
 }

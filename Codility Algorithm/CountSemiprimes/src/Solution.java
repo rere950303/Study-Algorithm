@@ -23,7 +23,7 @@ public class Solution {
             int prime = primes[i];
             int pc = 2;
 
-            arr[prime * 1] = 1;
+            arr[prime] = 1;
             while (pc * prime <= N) {
                 arr[pc++ * prime] = prime;
             }
@@ -33,11 +33,8 @@ public class Solution {
         int semiNum = 0;
 
         for (int i = 1; i <= N; i++) {
-            if (arr[i] != 0 && arr[i] != 1) {
-                if (arr[i / arr[i]] == 1) {
-                    semiNumArr[i] = ++semiNum;
-                }
-                semiNumArr[i] = semiNum;
+            if (arr[i] != 0 && arr[i] != 1 && arr[i / arr[i]] == 1) {
+                semiNumArr[i] = ++semiNum;
             } else {
                 semiNumArr[i] = semiNum;
             }

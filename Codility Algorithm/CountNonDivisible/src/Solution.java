@@ -17,6 +17,7 @@ public class Solution {
 
         for (int i = 0; i < length; i++) {
             int tmp = 0;
+
             for (int j = 1; j * j <= A[i]; j++) {
                 if (A[i] % j == 0) {
                     tmp += arr[j];

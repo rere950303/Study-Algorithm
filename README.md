@@ -151,7 +151,7 @@
 ### Greedy
 [Jump Game](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Jump%20Game/src/Solution.java), [Jump Game II](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Jump%20Game%20II/src/Solution.java), [Merge Intervals](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Merge%20Intervals/src/Solution.java), [Smallest Range II](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Smallest%20Range%20II/src/Solution.java), [Integer Replacement](https://github.com/rere950303/study-algorithm/blob/7ada6265f6a1bf49656f52a9d1195917ac9979db/LeetCode/Integer%20Replacement/src/Solution.java), [Minimum Number of Arrows to Burst Balloons](https://github.com/rere950303/study-algorithm/blob/700909b1345084ec1158cb340f7b2d591be2eec8/LeetCode/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/src/Solution.java), [Minimum Numbers of Function Calls to Make Target Array](https://github.com/rere950303/study-algorithm/blob/700909b1345084ec1158cb340f7b2d591be2eec8/LeetCode/Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array/src/Solution.java)
 ### Matrix
-[Rotate Image](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Rotate%20Image/src/Solution.java), [Spiral Matrix](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Spiral%20Matrix/src/Solution.java), [Game of Life](https://github.com/rere950303/study-algorithm/blob/700909b1345084ec1158cb340f7b2d591be2eec8/LeetCode/Game%20of%20Life/src/Solution.java)
+[Rotate Image](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Rotate%20Image/src/Solution.java), [Spiral Matrix](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Spiral%20Matrix/src/Solution.java), [Game of Life](https://github.com/rere950303/study-algorithm/blob/700909b1345084ec1158cb340f7b2d591be2eec8/LeetCode/Game%20of%20Life/src/Solution.java), [Set Matrix Zeroes](https://github.com/rere950303/study-algorithm/blob/963043453827a6a92796e20421b30c8a4095ae56/LeetCode/Set%20Matrix%20Zeroes/src/Solution.java)
 ### Concurrency
 [print FooBar Alternately](https://github.com/rere950303/study-algorithm/blob/main/LeetCode/Print%20FooBar%20Alternately/src/FooBar.java)
 ### Sorting
@@ -160,3 +160,7 @@
 [Smallest Subsequence of Distinct Characters](https://github.com/rere950303/study-algorithm/blob/7ada6265f6a1bf49656f52a9d1195917ac9979db/LeetCode/Smallest%20Subsequence%20of%20Distinct%20Characters/src/Solution.java)
 ### Trie
 [Replace Words](https://github.com/rere950303/study-algorithm/blob/7ada6265f6a1bf49656f52a9d1195917ac9979db/LeetCode/Replace%20Words/src/Solution.java)
+### Brainteaser
+[Last Moment Before All Ants Fall Out of a Plank](https://github.com/rere950303/study-algorithm/blob/963043453827a6a92796e20421b30c8a4095ae56/LeetCode/Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank/src/Solution.java)
+### Graph
+[Minimum Number of Vertices to Reach All Nodes](https://github.com/rere950303/study-algorithm/blob/963043453827a6a92796e20421b30c8a4095ae56/LeetCode/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/src/Solution.java)
